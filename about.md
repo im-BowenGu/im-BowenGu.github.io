@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! I am a student currently @ [Abingdon School](https://abingdon.org.uk) and working for [Robocon Oxfordshire](https://roboconoxon.org.uk). I code in python and do pentesting. My favourite linux distro is Manjaro/Arch and my favourite desktop environment is hyprland with ML4W.  
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I play minecraft with cheats btw
 
 ### Contact me
 
